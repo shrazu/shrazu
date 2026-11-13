@@ -5,7 +5,7 @@
 I build and customize Odoo ERP systems: custom modules, integrations, and data migrations from other platforms into Odoo. Five years of hands-on Odoo work, from functional setup to backend development and team leadership.
 
 - 💼 Odoo Developer at **Inovi Solutions**
-- 🏢 Previously **Principal Software Engineer (Odoo ERP)** at **BJIT Ltd.** (2021–2026), leading the Odoo development team. *Best Performer of the Year 2023*
+- 🏢 Previously **Principal Software Engineer (Odoo ERP)** at **BJIT Ltd.** (2021–2026), leading the Odoo development team. *Best Performer of the Year 2023 & 2025*
 - 🎓 **Odoo 19 Functional Certified** · B.Sc. in CSE, Daffodil International University
 - 🌍 Open to **remote Odoo developer** opportunities
 
