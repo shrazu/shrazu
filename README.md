@@ -38,3 +38,7 @@ I build and customize Odoo ERP systems: custom modules, integrations, and data m
 - **[model_image_export_api](https://github.com/shrazu/model_image_export_api)**: Export the images of any Odoo model with one authenticated HTTP call
 - **[model_image_export](https://github.com/shrazu/model_image_export)**: Export images of any model to a server folder from the Odoo UI
 - **[image_export](https://github.com/shrazu/image_export)**: Bulk-export product images, with duplicate handling and skip-if-exported logic
+
+### 📫 Get in touch
+
+[![Email](https://img.shields.io/badge/Email-hsrazu001%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hsrazu001@gmail.com)
